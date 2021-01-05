@@ -307,6 +307,390 @@ const QUOTEBANK = [
         quote:"Exteriorizar impressões é mais persuadirmo-nos de que as temos do que termo-las."},
         {author:"Fernando Pessoa",
         quote:"A celebridade é uma contradição. Parecendo que dá valor e força às criaturas, apenas as desvaloriza e enfraquece."},
+        {
+            author: "Camilo Castelo Branco",
+            quote: "O amor é a primeira condição da felicidade do homem."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "O amor só vive pelo sofrimento e cessa com a felicidade; porque o amor feliz é a perfeição dos mais belos sonhos, e tudo que é perfeito, ou aperfeiçoado, toca o seu fim."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "O ciúme vê com lentes, que fazem grandes as coisas pequenas, gigantes os anões, verdades as suspeitas."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "O silêncio é uma confissão."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "O amor é uma luz que não deixa escurecer a vida."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote:"Não há amor que resista a vinte e quatro horas de filosofia."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A saudade pelos vivos é dor suave."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Quem não conhece a mulher amiga, põe a mão sobre o coração e não encontra aí a flor, que se rega nas lágrimas, quer de alegria quer de recíproca tristeza."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "É falso o amor que leva o homem à indignidade."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Em coisas insignificantes é que um verdadeiro amigo se avalia."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Reparar, quando o coração repara mais que o juízo, é amar."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A felicidade é parecida com a liberdade, porque toda a gente fala nela e ninguém a goza."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Todas as paixões são vencíveis."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "As maiores desgraças são aquelas que a si próprias não podem perdoar."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "As ações de cada pessoa são boas ou más consoante a maneira como as outras as comentam."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Atrás da poesia do amor vem a prosa do casamento."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Os dias prósperos não vêm por acaso. São granjeados, como as searas, com muita fadiga e com muitos intervalos de desalento."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Não há metade do coração. Ou todo o amor ou toda a indiferença; quando não, é uma insustentável impostura, chamada estima."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "O homem que ama é um tolo sublime."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A beleza é o poder moderador dos delitos do coração."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A escala dos sofrimentos humanos é infinita."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A paciência é a riqueza dos infelizes."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Os raciocínios do amor-próprio não gozam do crédito das melhores consequências."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A caridade é a felicidade dos que dão e dos que recebem."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A morte é amparo."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Viver é ansiar a felicidade possível e a impossível."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "O amor nascente é tão melindroso, pueril e tímido, que receia desagradar até com o pensamento ao ídolo da sua concentrada adoração."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "O amor, que não perde nem desvaira, esse é que é o amor."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Daqui a 50 anos quem vai estar mais bonito o caráter ou a aparência?"
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A verdade dói, mas duas verdades aproxima a felicidade."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A vida nos ensina a entendê-la, pena que o nosso tempo não corresponde a necessidade do nosso ego"
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "As injustiças, se alanceiam as vítimas, também ferem quem as faz."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A verdadeira lei do progresso moral é a caridade."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A civilização é a razão da igualdade."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A história, a indefectível história, vai a reboque das ideias."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Há horas na vida em que a mais leve contrariedade toma as proporções de uma catástrofe."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "O homem é um composto de grandeza e pequenez, uma dualidade de gigante e de pigmeu."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Ninguém é pobre quando ama."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "O melhor amigo é o dinheiro. Conselhos, os melhores é o dinheiro que os dá."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "O extremo de um grande prazer é um desgosto."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A mulher devia ser velha quando não sente o coração... quando já não ama."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "As quedas de algumas mulheres justificam-nas alguns maridos."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: 	"Quando a eloquência, inspirada do íntimo da alma, regurgita em jorros dos lábios de uma amante, é certo o triunfo."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Amigo é uma palavra profanada pelo uso e barateada a cada hora, como a palavra de honra, que por aí anda desvirtualizando a honra."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Entre namorar e amar, está o reflectir."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Amigos verdadeiros são os que nos acodem inopinados com valedora mão nas tormentas desfeitas."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "A maldade é congénere do homem."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote:"A morte emenda todos os atos da vida."
+        },
+        {
+            author: "Camilo Castelo Branco",
+            quote: "Depois do céu, quem mais pasmosos milagres faz é o amor."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Quem disser que pode amar alguém durante a vida inteira é porque mente."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "É pensando nos homens que eu perdoo aos tigres as garras que dilaceram."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Se penetrássemos o sentido da vida seríamos menos miseráveis."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Eu não sou boa nem quero sê-lo, contento-me em desprezar quase todos, odiar alguns, estimar raros e amar um."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Sou talvez a visão que alguém sonhou; Alguém que veio ao mundo prá me ver; E que nunca na vida me encontrou"
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Sou uma céptica que crê em tudo, uma desiludida cheia de ilusões, uma revoltada que aceita, sorridente, todo o mal da vida, uma indiferente a transbordar de ternura."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Não és sequer a razão de meu viver, pois que tu és já toda a minha vida."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Estou cansada, cada vez mais incompreendida e insatisfeita comigo, com a vida e com os outros. Diz-me, porque não nasci igual aos outros, sem dúvidas, sem desejos de impossível? E é isso que me traz sempre desvairada, incompatível com a vida que toda a gente vive."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Tão pobres somos que as mesmas palavras nos servem para exprimir a mentira e a verdade"
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Amo-te tanto. E nunca te beijei... E nesse beijo, amor, que eu não te dei, guardo os versos mais lindos que te fiz."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Eu quero amar, amar perdidamente. Amar só por amar."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Trago no olhar visões extraordinárias, de coisas que abracei de olhos fechados..."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Gosto da noite imensa, triste,preta,como esta estranha borboleta que eu sinto sempre a voltejar em mim!..."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Quem me dera encontrar o verso puro, O verso altivo e forte, estranho e duro, Que dissesse a chorar isto que sinto!"
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "No gelo da indiferença ocultam-se as paixões."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "E se um dia hei de ser pó, cinza e nada, que seja minha noite uma alvorada, que eu saiba me perder para me encontrar..."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Longe de ti são ermos os caminhos."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Perdoo facilmente as ofensas, mas por indiferença e desdém: nada que me vem dos outros me toca profundamente."
+        },
+        {
+            author: "Florbela Espanca",
+            quote: "Quantas vezes? Amor, já te esqueci, para mais doidamente me lembrar, mais doidamente me lembrar de ti."
+        },
+        {
+            author: "Miguel Torga",
+            quote: "Recomeça... se puderes, sem angústia e sem pressa e os passos que deres, nesse caminho duro do futuro, dá-os em liberdade, enquanto não alcances não descanses, de nenhum fruto queiras só metade."
+        },
+        {
+            author: "Miguel Torga",
+            quote: "Só havia três coisas sagradas na vida: a infância, o amor e a doença. Tudo se podia atraiçoar no mundo, menos uma criança, o ser que nos ama e um enfermo. Em todos esses casos a pessoa está indefesa."
+        },
+        {
+            author: "Miguel Torga",
+            quote: 	"Mais um ano. Mais um palmo a separar-me dos outros, já que a vida não passa de um progressivo distanciamento de tudo e de todos, que a morte remata."
+        },
+        {
+            author: "Miguel Torga",
+            quote: "A vida afectiva é a única que vale a pena. A outra apenas serve para organizar na consciência o processo da inutilidade de tudo."
+        },
+        {
+            author: "Miguel Torga",
+            quote: "Não perturbes a paz que me foi dada. Ouvir de novo a tua voz seria matar a sede com água salgada."
+        },
+        {
+            author: "Miguel Torga",
+            quote: "Os homens só me deram tristezas. Ou eu nunca os entendi, ou eles nunca me entenderam."
+        },
+        {
+            author: "Miguel Torga",
+            quote: "Mas a vida é uma coisa imensa, que não cabe numa teoria, num poema, num dogma, nem mesmo no desespero inteiro dum homem."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "A eternidade é saber que existes, abrir os olhos enquanto dormes, ou então adormecer enquanto me olhas, e depois viver para sempre."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "O infeliz fecha os olhos para morrer; o feliz fecha os olhos para viver. Ninguém vive de olhos abertos."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "E que a distância não impeça o abraço..."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "É por causa dos que vivem na Lua - só por eles - que vale a pena viver na Terra."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "A saudade é feita de aprendizagem, de ruídos que servem para não ouvir."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "As pessoas que eu amo não são as melhores pessoas do mundo. Mas são pessoas. Basta-me isso para as poder amar."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "O grande artista é só aquele que está sempre aquém daquilo que ama."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "Qualquer um sabe mexer-se; mas são raros o que sabem mexer-se no sentido certo."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "Os loucos vêem no impossível todos os motivos para continuar enquanto os outros vêem todos os motivos para desistir."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "De tudo o que amo é você que mais me apaixona."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "O amor nasce para todos, e é bom que você saiba disso."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "Os amores resistem a tudo menos à falta de tentativa. Tens de te esfalfar todo para conseguir amar. Tens de rastejar e voar com a mesma vontade, com a mesma euforia."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "Os amores acabam quando alguém se esquece de que os amores não acabam."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "Só está sozinho aquele que não procura ninguém."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "A criança sabe pouco e vive muito, o adulto sabe muito e vive pouco."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "Só quem ama corre o risco de perder; os outros correm apenas o risco de continuar perdidos."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "Há uma pessoa a mais num casal quando existe o orgulho a separá-lo."
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "⁠Há um menos a mais em cada mais ou menos que se vive. "
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "⁠A morte serve para valorizar a vida - e para acabar com ela também. "
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "⁠O optimismo não é ver o copo meio cheio; é estar constantemente a encher o copo. "
+        },
+        {
+            author: "Pedro Chagas Freitas",
+            quote: "⁠ É claro que o mundo às vezes é um cabrão; é claro que a vida às vezes é uma cabra. Leva-nos pessoas, leva-nos coisas, leva-nos sonhos. Às vezes leva-nos mesmo tudo (ou o que julgávamos ser tudo). Mas viver é suportar todos os cabrões e todas as cabras que a vida tem para oferecer. "
+        }
     
         
 ];
